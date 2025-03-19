@@ -1,0 +1,12 @@
+sqlalchemy
+alembic
+psycopg2-binary
+pydantic==2.8.2
+uvicorn
+fastapi==0.112.0
+python-multipart
+fastapi_pagination
+requests
+python-dotenv
+passlib[bcrypt]
+python-jose
